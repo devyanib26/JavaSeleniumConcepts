@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-06T22:36:26 IST" name="Default suite" finished-at="2024-08-06T22:36:35 IST" duration-ms="8235">
+    <groups>
+    </groups>
+    <test started-at="2024-08-06T22:36:26 IST" name="Default test" finished-at="2024-08-06T22:36:35 IST" duration-ms="8235">
+      <class name="selenium.TestNGParam">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.TestNGParam@229c6181]" started-at="2024-08-06T22:36:26 IST" name="setup" finished-at="2024-08-06T22:36:26 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:selenium.TestNGParam@229c6181]" started-at="2024-08-06T22:36:26 IST" name="openBrowser" finished-at="2024-08-06T22:36:30 IST" duration-ms="3079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="loginApp()[pri:0, instance:selenium.TestNGParam@229c6181]" started-at="2024-08-06T22:36:30 IST" name="loginApp" finished-at="2024-08-06T22:36:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method is-config="true" signature="checkPrecondition()[pri:0, instance:selenium.TestNGParam@229c6181]" started-at="2024-08-06T22:36:30 IST" name="checkPrecondition" finished-at="2024-08-06T22:36:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPrecondition -->
+        <test-method signature="testUntitled()[pri:1, instance:selenium.TestNGParam@229c6181]" started-at="2024-08-06T22:36:30 IST" name="testUntitled" finished-at="2024-08-06T22:36:30 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitled -->
+        <test-method is-config="true" signature="runsAfterTest()[pri:0, instance:selenium.TestNGParam@229c6181]" started-at="2024-08-06T22:36:30 IST" name="runsAfterTest" finished-at="2024-08-06T22:36:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runsAfterTest -->
+        <test-method signature="testListTitles()[pri:2, instance:selenium.TestNGParam@229c6181]" started-at="2024-08-06T22:36:30 IST" name="testListTitles" finished-at="2024-08-06T22:36:35 IST" duration-ms="5083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testListTitles -->
+        <test-method is-config="true" signature="checkPrecondition()[pri:0, instance:selenium.TestNGParam@229c6181]" started-at="2024-08-06T22:36:30 IST" name="checkPrecondition" finished-at="2024-08-06T22:36:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPrecondition -->
+        <test-method is-config="true" signature="runsAfterTest()[pri:0, instance:selenium.TestNGParam@229c6181]" started-at="2024-08-06T22:36:35 IST" name="runsAfterTest" finished-at="2024-08-06T22:36:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runsAfterTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium.TestNGParam@229c6181]" started-at="2024-08-06T22:36:35 IST" name="tearDown" finished-at="2024-08-06T22:36:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:selenium.TestNGParam@229c6181]" started-at="2024-08-06T22:36:35 IST" name="tearDownTest" finished-at="2024-08-06T22:36:35 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="finalTearDown()[pri:0, instance:selenium.TestNGParam@229c6181]" started-at="2024-08-06T22:36:35 IST" name="finalTearDown" finished-at="2024-08-06T22:36:35 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalTearDown -->
+      </class> <!-- selenium.TestNGParam -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
